@@ -1,5 +1,6 @@
-## yo yo yo 
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Building+Cool+Projects;Always+Learning+New+Tech" />
+</p>
 <!--
 **zvxsii/zvxsii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
