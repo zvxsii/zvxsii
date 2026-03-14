@@ -1,0 +1,22 @@
+<svg width="900" height="900" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- background artwork -->
+  <image href="flower.png" x="0" y="0" width="900"/>
+
+  <!-- GitHub stats widget -->
+  <image
+    href="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"
+    x="200"
+    y="200"
+    width="500"
+  />
+
+  <!-- languages widget -->
+  <image
+    href="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"
+    x="300"
+    y="450"
+    width="300"
+  />
+
+</svg>
