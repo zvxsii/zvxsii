@@ -2,6 +2,10 @@
   <img src="flower.png" width="450">
 </p>
 
+<p align="center">
+  <img src="scene.svg" width="900">
+</p>
+
 <table align="center">
 <tr>
 
