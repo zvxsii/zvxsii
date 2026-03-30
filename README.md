@@ -1,55 +1,55 @@
-<!-- TOP BANNER (your flower image) -->
+<!-- HEADER -->
+<h1 align="center">yo its zahra 🌸</h1>
+<h3 align="center">software engineering student</h3>
+
 <p align="center">
-  <svg width="500" height="500" viewBox="0 0 500 500">
-    
-
-   <image href="https://raw.githubusercontent.com/zvxsii/zvxsii/main/pink-flower.png" width="500" height="500"/>
-
-
-  <text x="50%" y="45%" text-anchor="middle" fill="white" font-size="30" font-family="Arial" font-weight="bold">
-      yo its zahra
-    </text>
-
-   <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="16" font-family="Arial">
-      software engineering student
-    </text>
-
-  </svg>
+  ✨ building cool things • 💻 full-stack dev • 🌸 aesthetic coder
 </p>
-----
 
+---
 
-<h3 align="center">🌸 connect with me 🌸</h3>
+<!-- IMAGE -->
 <p align="center">
-  <a href="https://instagram.com/zvxsii" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/pink-flower.png" width="350"/>
+</p>
+
+---
+
+<!-- SOCIALS -->
+<h3 align="center">connect with me</h3>
+
+<p align="center">
+  <a href="https://instagram.com/zvxsii">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ languages & tools 🛠️</h3>
+<!-- TECH STACK -->
+<h3 align="center">tech stack</h3>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,kotlin,html,css,tailwind,spring,mysql,android,blender,ps,ai" />
 </p>
 
 ---
 
+<!-- STATS -->
+<h3 align="center">stats</h3>
+
 <p align="center">
-  ✨ building cool things | 💻 software engineering | 🌸 aesthetic coder vibes
+  <img src="https://github-readme-stats.vercel.app/api?username=zvxsii&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zvxsii&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- EXTRA -->
+<p align="center">
+  💡 currently working on: full-stack projects & creative dev  
+  🚀 goal: build tech + design together  
 </p>
