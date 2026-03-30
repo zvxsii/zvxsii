@@ -10,7 +10,7 @@
 
 <!-- IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace.png" width=400px/>
+  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace2.png" width=400px/>
 </p>
 
 ---
