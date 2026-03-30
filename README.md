@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center"> ｈｅｙ， ｉ＇ｍ ｚａｈｒａ .  </h1>
 
-<!-- IMAGE -->
+<!-- IMAGE sxc-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace3.png" width=600px/>
 </p>
