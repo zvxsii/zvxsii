@@ -1,5 +1,10 @@
 <!-- HEADER -->
 <h1 align="center"> ｈｅｙ， ｉ＇ｍ ｚａｈｒａ .  </h1>
+
+<!-- IMAGE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace2.png" width=600px/>
+</p>
 <h3 align="center">software engineering student</h3>
 
 <p align="center">
