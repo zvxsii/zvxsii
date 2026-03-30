@@ -1,11 +1,10 @@
 <!-- TOP BANNER (your flower image) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zvxsii/README.md/main/pink-flower.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/pink-flower.png" width="100%" />
 </p>
 
 <h1 align="center">yo its zahra</h1>
 <h3 align="center">Software Engineering Student 💻✨</h3>
-
 ----
 
 <h3 align="center">🌸 connect with me 🌸</h3>
