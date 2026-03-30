@@ -1,7 +1,6 @@
 <!-- HEADER -->
 <h1 align="center"> ｈｅｙ， ｉ＇ｍ ｚａｈｒａ .  </h1>
 
-<!-- IMAGE sxc-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace4.png" width=600px/>
 </p>
@@ -11,14 +10,14 @@
   ✨ building cool things • 💻 full-stack dev • 🌸 aesthetic coder
 </p>
 
----
+
 
 <!-- IMAGE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace3.png" width=600px/>
 </p>
 
----
+
 
 <!-- SOCIALS -->
 <h3 align="center">connect with me</h3>
