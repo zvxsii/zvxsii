@@ -3,7 +3,7 @@
 
 <!-- IMAGE sxc-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace3.png" width=600px/>
+  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace4.png" width=600px/>
 </p>
 <h3 align="center">software engineering student</h3>
 
