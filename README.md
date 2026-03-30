@@ -2,10 +2,10 @@
 <p align="center">
   <svg width="500" height="500" viewBox="0 0 500 500">
     
-    <!-- Background Image -->
+
    <image href="https://raw.githubusercontent.com/zvxsii/zvxsii/main/pink-flower.png" width="500" height="500"/>
 
-    <!-- Overlay Text -->
+
   <text x="50%" y="45%" text-anchor="middle" fill="white" font-size="30" font-family="Arial" font-weight="bold">
       yo its zahra
     </text>
