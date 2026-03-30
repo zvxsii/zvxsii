@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center"> ｈｅｙ， ｉ＇ｍ ｚａｈｒａ .  -</h1>
+<h1 align="center"> ｈｅｙ， ｉ＇ｍ ｚａｈｒａ .  </h1>
 <h3 align="center">software engineering student</h3>
 
 <p align="center">
