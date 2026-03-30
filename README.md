@@ -1,11 +1,23 @@
 <!-- TOP BANNER (your flower image) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/pink-flower.png" width="100%" />
-</p>
+  <svg width="500" height="500" viewBox="0 0 500 500">
+    
+    <!-- Background Image -->
+   <image href="https://raw.githubusercontent.com/zvxsii/zvxsii/main/pink-flower.png" width="500" height="500"/>
 
-<h1 align="center">yo its zahra</h1>
-<h3 align="center">Software Engineering Student 💻✨</h3>
+    <!-- Overlay Text -->
+  <text x="50%" y="45%" text-anchor="middle" fill="white" font-size="30" font-family="Arial" font-weight="bold">
+      yo its zahra
+    </text>
+
+   <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="16" font-family="Arial">
+      software engineering student
+    </text>
+
+  </svg>
+</p>
 ----
+
 
 <h3 align="center">🌸 connect with me 🌸</h3>
 <p align="center">
