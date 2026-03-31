@@ -13,11 +13,6 @@ under construction!
 
 
 
-<!-- IMAGE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/lace3.png" width=600px/>
-</p>
-
 
 
 <!-- SOCIALS -->
