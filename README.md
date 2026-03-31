@@ -7,7 +7,7 @@
 <h3 align="center">software engineering student</h3>
 
 <!-- IMAGE -->
-<p align="centre">
+<p align="center">
   <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/flowerbg.png" width=200px />
 </p>
 <p align="center">
