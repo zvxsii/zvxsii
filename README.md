@@ -8,7 +8,7 @@
 
 <!-- IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/flowerbg.png width=600px" />
+  <img src="https://raw.githubusercontent.com/zvxsii/zvxsii/main/flowerbg.png" width=600px />
 </p>
 <p align="center">
   ✨ building cool things • 💻 full-stack dev • 🌸 aesthetic coder
